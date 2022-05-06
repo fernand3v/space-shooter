@@ -63,3 +63,16 @@ body {
     position: relative;
     opacity: 0;
 }
+
+.div-score {
+    color: white;
+    height: 40px;
+    width: 200px;
+    margin-top: -10px;
+    margin-left: 10px;
+}
+
+#score {
+    color: white;
+    margin-top: -20px;
+}
