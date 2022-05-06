@@ -1,0 +1,4 @@
+# Remove os arquivos .DS_Store
+*.DS_Store
+# Remove a pasta base
+base/
